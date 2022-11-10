@@ -1,0 +1,3 @@
+[submodule "src/libs/libass"]
+	path = src/libs/libass
+	url = git@github.com:libass/libass.git
