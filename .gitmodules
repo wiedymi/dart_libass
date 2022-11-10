@@ -1,3 +1,25 @@
 [submodule "src/libs/libass"]
 	path = src/libs/libass
 	url = git@github.com:libass/libass.git
+
+
+[submodule "src/libs/fribidi"]
+	path = src/libs/fribidi
+	url = https://github.com/fribidi/fribidi.git
+	ignore = dirty
+[submodule "src/libs/fontconfig"]
+	path = src/libs/fontconfig
+	url = https://gitlab.freedesktop.org/fontconfig/fontconfig.git
+	ignore = dirty
+[submodule "src/libs/freetype"]
+	path = src/libs/freetype
+	url = https://gitlab.freedesktop.org/freetype/freetype.git
+	ignore = dirty
+[submodule "src/libs/expat"]
+	path = src/libs/expat
+	url = https://github.com/libexpat/libexpat.git
+	ignore = dirty
+[submodule "src/libs/harfbuzz"]
+	path = src/libs/harfbuzz
+	url = https://github.com/harfbuzz/harfbuzz.git
+	ignore = dirty
